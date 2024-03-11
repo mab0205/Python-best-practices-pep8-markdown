@@ -13,7 +13,7 @@
     }
 </style>
 
-## PEP 8 - normas para códigos en Python
+## PEP 8 - Guia de programación en Python
 
 > :memo: **Note:** Guia rápida de PEP 8 basada en el ensayo de Guido van Rossum. 
     https://peps.python.org/pep-0008/
